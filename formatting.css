@@ -1,0 +1,70 @@
+body {
+	background-color: lightgrey;
+
+	width: 820px;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+
+main {
+	position: relative;
+}
+
+article {
+	width: 520px;
+}
+
+h1 {
+	font-family: Montserrat;
+}
+
+h2 {
+	font-family: Montserrat;
+}
+
+h3 {
+	font-family: Montserrat;
+}
+
+p {
+	font-family: Montserrat;
+}
+
+li {
+	font-family: Montserrat;
+}
+
+section.self_portrait {
+	max-width: 100px;
+	position: absolute;
+	top: 20px;
+	margin-left: 550px;
+}
+
+img {
+	border-radius: 50%;
+}
+
+img.self_portrait {
+	width: 100%;
+	border-radius: 50%;
+}
+
+nav ul {
+	list-style: none;
+	font-family: Montserrat;
+	padding: 10px 0px 0px 0px;
+	background-color: lightsteelblue;
+	width: 470px;
+	border-radius: 10px;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav a {
+	padding: .6em 1em;
+	color: blue;
+	text-decoration: none;
+}
